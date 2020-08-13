@@ -1,14 +1,6 @@
 {
   "short_name": "Sadaf",
   "name": "Sadaf",
-  "lang": "en",
-  "description": "Sadaf",
-  "start_url": "/",
-  "background_color": "#e91e63",
-  "theme_color": "#e91e63",
-  "dir": "ltr",
-  "display": "standalone",
-  "orientation": "any",
   "icons": [
     {
       "src": "./img/icons/android-icon-192x192-dunplab-manifest-7213.png",
@@ -87,5 +79,9 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
 }
