@@ -3,7 +3,7 @@
     <v-app-bar app color="purple" dark>
       <div class="d-flex align-center">
         <v-img
-          alt="Rahila"
+          alt="Sadaf"
           class="shrink mr-2"
           contain
           src="./assets/logo.png"
@@ -11,7 +11,7 @@
           width="40"
         />
 
-        <strong style="font-size:28px; margin-left:10px;"
+        <strong style="font-size:22px; margin-left:10px;"
           >Happy Birthday!</strong
         >
       </div>
