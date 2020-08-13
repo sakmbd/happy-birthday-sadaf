@@ -1,9 +1,9 @@
 {
-  "short_name": "Happy Birthday Sadaf",
+  "short_name": "Sadaf",
   "name": "Sadaf",
   "lang": "en",
-  "description": "Happy Birthday Sadaf",
-  "start_url": "/",
+  "description": "Sadaf",
+  "start_url": "./index.html",
   "background_color": "#e91e63",
   "theme_color": "#e91e63",
   "dir": "ltr",
@@ -74,6 +74,18 @@
       "src": "./img/icons/favicon-16x16-dunplab-manifest-7213.png",
       "type": "image/png",
       "sizes": "16x16"
+    },
+    {
+      "src": "./img/icons/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./img/icons/android-icon-512x512-dunplab-manifest.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "prefer_related_applications": "false"
