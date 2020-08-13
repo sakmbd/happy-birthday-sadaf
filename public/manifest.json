@@ -1,14 +1,6 @@
 {
+  "name": "Happy Birthday Sadaf",
   "short_name": "Sadaf",
-  "name": "Sadaf",
-  "lang": "en",
-  "description": "Sadaf",
-  "start_url": "./index.html",
-  "background_color": "#e91e63",
-  "theme_color": "#e91e63",
-  "dir": "ltr",
-  "display": "standalone",
-  "orientation": "any",
   "icons": [
     {
       "src": "./img/icons/android-icon-192x192-dunplab-manifest-7213.png",
@@ -88,5 +80,13 @@
       "purpose": "any maskable"
     }
   ],
-  "prefer_related_applications": "false"
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#3f51b5",
+  "description": "Happy Birthday Sadaf Rehmaan.",
+  "dir": "ltr",
+  "lang": "en-US"
 }
