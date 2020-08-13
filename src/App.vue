@@ -11,8 +11,8 @@
           width="40"
         />
 
-        <strong style="font-size:22px; margin-left:10px;"
-          >Happy Birthday!</strong
+        <strong style="font-size:18px; margin-left:5px;"
+          >Happy Birthday Sadaf</strong
         >
       </div>
     </v-app-bar>
