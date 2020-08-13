@@ -76,19 +76,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sadaf (9).jpg"
   },
   {
-    "revision": "baa3fb0b2abe1efd0ed9db2d6f42bb06",
+    "revision": "01c73485e7d9327aac922a96e3a812ae",
     "url": "/index.html"
   },
   {
-    "revision": "4ac504be8a9f20fafcbf",
-    "url": "/js/app.604ef7c9.js"
+    "revision": "7ee6e4175b38b231ab8b",
+    "url": "/js/app.51b3f733.js"
   },
   {
     "revision": "b36e8c54d8bc0dadf521",
     "url": "/js/chunk-vendors.5ca3d66a.js"
   },
   {
-    "revision": "822128366c0f195c96b2e3227fab2f3b",
+    "revision": "f4e1aeed853fa217765acbc5523b9992",
     "url": "/manifest.json"
   },
   {

@@ -3,7 +3,7 @@
   "name": "Sadaf",
   "lang": "en",
   "description": "Sadaf",
-  "start_url": "./index.html",
+  "start_url": "/",
   "background_color": "#e91e63",
   "theme_color": "#e91e63",
   "dir": "ltr",
