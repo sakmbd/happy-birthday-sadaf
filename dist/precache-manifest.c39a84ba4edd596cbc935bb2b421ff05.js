@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b36e8c54d8bc0dadf521",
+    "revision": "5b8a91572ddd01ed4660",
     "url": "/css/chunk-vendors.a949a185.css"
   },
   {
@@ -76,19 +76,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sadaf (9).jpg"
   },
   {
-    "revision": "baa3fb0b2abe1efd0ed9db2d6f42bb06",
+    "revision": "245ff4bdf6e53f9e20a61a8a3de5ca9c",
     "url": "/index.html"
   },
   {
-    "revision": "4ac504be8a9f20fafcbf",
-    "url": "/js/app.604ef7c9.js"
+    "revision": "6e19d8092c750f8ef0be",
+    "url": "/js/app.180bbfb0.js"
   },
   {
-    "revision": "b36e8c54d8bc0dadf521",
-    "url": "/js/chunk-vendors.5ca3d66a.js"
+    "revision": "5b8a91572ddd01ed4660",
+    "url": "/js/chunk-vendors.864fe0dc.js"
   },
   {
-    "revision": "fd3716ff20a2f61f1952cfb6298bc48e",
+    "revision": "165ced31e145576c7bd1eb2f7e396a09",
     "url": "/manifest.json"
   },
   {
