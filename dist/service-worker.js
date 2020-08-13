@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1d1b9b7723e8d18386711676646ae986.js"
+  "/precache-manifest.499c6caa752428094ab78ba130eeb39b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sadaf"});

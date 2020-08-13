@@ -98,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "ae619edb3926479c3fae83b89d1d99d8",
+    "url": "/sadaf.png"
   }
 ]);
